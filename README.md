@@ -1,9 +1,9 @@
-#Integrantes
+**Integrantes**
 
 Bruno Lauand Ferrão - 32217994
 Raul Vilhora Cardoso Matias - 32267274
 
-#Compilação
+**Compilação**
 
 Para cada exercício depois de colar o repositório na AWS e acessar o mesmo, eu utilizei os seguintes comandos para compilar e executar:
 
